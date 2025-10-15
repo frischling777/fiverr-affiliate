@@ -1,2 +1,6 @@
-# fiverr-affiliate
-Eine responsive Landing Page mit Next.js, Tailwind CSS und TypeScript zur Integration von Fiverr-Affiliate-Angeboten. Fokus auf SEO, Conversion und dynamische Komponenten.
+# Fiverr Affiliate
+
+Dies ist meine persönliche Affiliate-Landingpage, erstellt mit Next.js, Tailwind CSS und TypeScript.  
+Hier teste ich dynamische Komponenten wie die `FiverrCard` und optimiere für SEO und Conversion.
+
+> Deployment via Vercel – automatisiert über GitHub Push.
